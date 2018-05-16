@@ -1,0 +1,10 @@
+body {
+  font-size: 100px;
+  font-family: 'Favorit';
+  color: red;
+}
+
+@font-face {
+  font-family: 'Favorit';
+  src: url('./Favorit-MediumLining.otf')
+}
