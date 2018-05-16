@@ -4,7 +4,7 @@ var mainText
 
 resetText()
 
-setInterval(removeSecondLast, 100)
+setInterval(removeSecondLast, 500)
 
 function removeSecondLast() {
   mainText.splice(mainText.length - 2, 1)
